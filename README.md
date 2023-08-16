@@ -21,7 +21,7 @@ The script reads a list of IP addresses from a CSV file and uses external APIs t
 ## Usage
 
 1. Upload the script to your web server.
-2. Create a CSV file (`ip_addresses.csv`) with a list of IP addresses.
+2. Create a CSV file (`input.csv`) with a list of IP addresses.
 3. Configure the script by updating the necessary settings.
 4. Access the script through a web browser: `http://localhost/index.php`.
 
